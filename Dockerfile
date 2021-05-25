@@ -17,7 +17,8 @@ bind-utils \
 stress \
 dnf-plugins-core \
 traceroute \
-iputils
+iputils \
+docker
 
 # install helm
 # ENV HELM_VERSION=v3.4.1
